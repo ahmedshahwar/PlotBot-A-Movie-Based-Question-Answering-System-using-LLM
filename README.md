@@ -6,6 +6,10 @@ PlotBot is a Question-Answering System designed to answer questions related to m
 
 This repository contains the codebase for PlotBot, developed as a semester project for the Natural Language Processing course at Bahria University, Islamabad.
 
+## Demo Video
+
+Check out the demo video of PlotBot in action [here](https://youtu.be/1kA1UIpNx30).
+
 ## Dataset
 
 The dataset used for training and evaluation can be downloaded from the [CMU's website](https://www.cs.cmu.edu/~ark/personas/data/MovieSummaries.tar.gz). This dataset provides movie summaries along with other metadata which serve as the basis for generating responses in PlotBot.
